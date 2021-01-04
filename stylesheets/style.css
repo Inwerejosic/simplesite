@@ -1,0 +1,44 @@
+h1 {
+    background-color: aquamarine;
+    color: burlywood;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(71, 7, 63);
+    color: rgb(238, 188, 221);
+    margin: 3px;
+    border: 2px;
+    padding: 2px;
+    text-align: center;
+}
+
+a {
+    color: cornflowerblue;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 2px;
+    text-align: center;
+}
+
+#definition {
+    color: aqua;
+    padding: 3rem;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.image1 {
+    border-radius: 2mm;
+}
+
+ul {
+    list-style: none;
+    background-color: beige;
+    border: 1rem;
+    padding: 4mm;
+    text-align: center;
+}
