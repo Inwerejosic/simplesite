@@ -23,16 +23,17 @@ a {
     text-align: center;
 }
 
+.image1 {
+    border-radius: 2mm;
+    align-content: center;
+}
+
 #definition {
     color: aqua;
     padding: 3rem;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-}
-
-.image1 {
-    border-radius: 2mm;
+    text-align: center;
 }
 
 ul {
